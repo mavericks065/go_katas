@@ -1,4 +1,4 @@
-package fizzbuzz_solution
+package fizzbuzzSolution
 
 import "strconv"
 

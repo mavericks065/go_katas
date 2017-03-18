@@ -1,6 +1,7 @@
-package fizzbuzz_solution
+package fizzbuzzSolution_test
 
 import (
+	. "fizzbuzzSolution"
 	"testing"
 )
 
